@@ -9,4 +9,4 @@ echo "LAPiZZA"
 echo -e "123\n123\n123"
 # -e = pour les caractere speciaux oomme les back slash
 read -p "Vous avez quel age?" age 
-echo $age "ans! vous paraissez plus jeune"
+echo $age "ans! vous ne paraissez pas  plus jeune"
